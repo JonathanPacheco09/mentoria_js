@@ -1,4 +1,4 @@
-var A = 10
-var B = 9
+var A = 5
+var B = 5
 var x = A + B
 console.log(x)
